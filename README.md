@@ -38,3 +38,4 @@ Some useful aliases:
   - **cd...** 
   - **chmodd** - _chmod 755 recursively all directories in the current directory_
   - **chmodf** - _chmod 644 recursively all filess in the current directory_
+  - **ports** - _list all used ports in the system_

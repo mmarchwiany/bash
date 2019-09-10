@@ -12,6 +12,7 @@ alias cd..="cd .."
 alias cd.="cd."
 alias chmodd="find ./ -type d -exec chmod 755 {} +"
 alias chmodf="find ./ -type f -exec chmod 644 {} +"
+alias ports="sudo lsof -i -P -n | grep LISTEN"
 
 ##############
 # Laravel
