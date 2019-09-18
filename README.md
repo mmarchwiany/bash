@@ -31,6 +31,7 @@ Some useful aliases:
   - **gitb** - _git branch_
   - **gitp** - _git push_
   - **gitpl** - _git pull_
+  - **gitg* - _git log oneliner messages with decorate_
 
 - **General**
   - **cd.** 

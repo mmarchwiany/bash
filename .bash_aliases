@@ -34,6 +34,7 @@ alias gitcb="git checkout -b"
 alias gitb="git branch"
 alias gitp="git push"
 alias gitpl="git pull"
+alias gitg="git log --all --decorate --oneline --graph"
 
 ##############
 # Docker
